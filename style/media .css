@@ -1,0 +1,553 @@
+@media (max-width: 768px) {
+
+    .container {
+        max-width: 768px;
+        margin: 0 auto;
+    }
+
+    .OurPerspectiveshole {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        padding-right: 24px;
+    }
+
+    .Webtext2 {
+        font-size: 32px;
+        line-height: 35px;
+        margin-bottom: 50px;
+        padding-left: 23px;
+        padding-top: 36px;
+    }
+
+    .Technologiestext {
+        font-size: 18px;
+        padding-left: 11px;
+        background-color: white;
+    }
+
+    .Webtext1 {
+        font-size: 36px;
+        padding-top: 40px;
+        padding-left: 23px;
+        margin-bottom: 0px;
+    }
+
+    .divfir {
+        margin-top: -1px;
+    }
+
+    .holediv1 {
+        display: block;
+    }
+
+    .section2 {
+        padding-left: 0px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    .hole {
+        padding: 0px;
+    }
+
+    .text {
+        padding-left: 23px;
+    }
+
+    .Webtext3 {
+        font-size: 24px;
+        line-height: 35px;
+        padding-left: 24px;
+        padding-top: 17px;
+    }
+
+    .para2 {
+        font-size: 16px;
+        padding-left: 23px;
+        line-height: 24px;
+        margin-bottom: 53px;
+        margin-top: -31px;
+    }
+
+    .btn1 {
+        margin: -50px 24.6px;
+        padding: 10px 44px;
+    }
+
+    .imgone {
+        display: none;
+    }
+    .OurProjectsbox{
+        width: auto;
+    }
+
+    .section3 {
+        margin-left: 13px;
+    }
+
+    .Technologiestextone {
+        font-size: 28px;
+        margin-top: 34px;
+        font-weight: 500;
+        padding-left: 11px;
+    }
+
+    .OurProjectsbox1 {
+        display: block;
+        padding-right: 24px;
+    }
+
+    .Technologiesimg {
+        display: none;
+    }
+
+    .Technologiesimg {
+        display: none;
+        padding-left: 20px;
+        padding-top: 23px;
+        background-color: white;
+        height: 160px;
+        width: 331px;
+    }
+
+    .section4 {
+        padding-left: 25px;
+        padding-top: 20px;
+    }
+
+    .parase4 {
+        font-size: 12px;
+        margin-top: 17px;
+        line-height: 21px;
+    }
+
+    .Technologiestext4 {
+        padding-bottom: 46px;
+        padding-left: 15px;
+    }
+
+    .img277 {
+        display: none;
+    }
+
+    .section6 {
+        padding-left: 14px;
+    }
+
+    .OurPerspectivestext1 {
+        padding-top: 32px;
+        text-align: start;
+        font-size: 28px;
+        padding-left: 5px;
+    }
+
+    .OurPerspectivestext2 {
+        font-size: 16px;
+        text-align: start;
+        padding-left: 5px;
+    }
+
+    .connecttext {
+        display: none;
+    }
+
+    .connecttext {
+        display: none;
+    }
+
+    .headdivse777 {
+        display: block;
+        font-size: 24px;
+        font-weight: normal;
+        text-align: center;
+        padding-top: 58px;
+    }
+
+    .headdivse8888 {
+        display: block;
+        font-size: 24px;
+        font-weight: normal;
+        text-align: center;
+
+    }
+
+    .Connectbox {
+        display: none;
+    }
+
+    .Connectboxtext1 {
+        display: none;
+    }
+
+    .iner {
+        height: 0px;
+        width: 123px;
+    }
+
+    .Connectboxtext2 {
+        font-size: 18px;
+        font-weight: bold;
+        font-weight: 500;
+        color: white;
+        width: 113px;
+    }
+
+    .Connectbox2 {
+        display: flex;
+        flex-direction: column;
+        padding-left: 14px;
+        gap: 29px;
+        padding-top: 28px;
+    }
+
+    .Connectbox4text {
+        font-size: 14px;
+        padding-top: 0.1px;
+    }
+
+    .holelastdiv11 {
+        font-size: 16px;
+    }
+
+    .holsediv8se2 {
+        height: 44px;
+    }
+
+    .img27 {
+        display: none;
+    }
+
+    .Connectlast {
+        font-size: 12px;
+    }
+
+    .logoimg1 {
+        padding-top: 14px;
+    }
+
+    .new {
+        display: flex;
+        gap: 206px;
+    }
+
+    .newinnn {
+        display: block;
+    }
+
+    .headicon33 {
+        display: block;
+        padding-top: 14px;
+    }
+
+    .text {
+        display: flex;
+        gap: 107px;
+        width: -webkit-fill-available;
+    }
+
+    .img4 {
+        display: block;
+        background-color: white;
+        width: 100%;
+
+    }
+}
+
+@media (max-width: 948px) {
+    .nav1 {
+        display: none;
+    }
+}
+
+@media(max-width: 765px) {
+    .section5 {
+        padding-left: 0px;
+        padding-right: 27px;
+        margin-top: 66px;
+        margin-bottom: 56px;
+    }
+}
+
+@media(max-width: 768px) {
+    .section6 {
+        padding-left: 23px;
+
+    }
+}
+
+.section8 {
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+
+@media(max-width: 768px) {
+
+    .sediv51 {
+        width: 80%;
+        padding-bottom: 19px;
+    }
+
+    .sediv52 {
+        width: 80%;
+        padding-bottom: 19px;
+    }
+    .Technologiesbox{
+        width: auto;
+    }
+    .Acceleratorsflex {
+        display: flex;
+        flex-direction: column;
+        page-break-inside: 10px;
+        padding-left: 26px;
+
+    }
+
+    .Acceleratorsbox {
+
+        padding-bottom: 19px;
+        margin-right: 0px;
+    }
+
+    .sese2div {
+        display: flex;
+        flex-direction: column;
+        padding-left: 28px;
+    }
+
+
+    .OurPerspectivesbox {
+        box-shadow: 0rem 0.4rem 2.5rem rgba(0, 0, 0, 0.14);
+
+    }
+
+    .img66 {
+        width: 100%;
+    }
+
+    .connectarrow {
+        display: flex;
+        justify-content: center;
+        padding-left: 0px;
+    }
+
+    .textimg5555 {
+        padding-left: 0px;
+    }
+
+    .holeimg1 {
+        width: 100%;
+    }
+    .Projectsimg,
+    .holeimg2 {
+        width: auto;
+    }
+
+    .holeimg3 {
+        width: 100%;
+    }
+
+    .OurProjectsboxhole {
+        display: block;
+        padding-top: 30px;
+        padding-left: 0px;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        padding-right: 21px;
+    }
+
+    .OurProjects {
+        font-size: 28px;
+        padding-left: 0px;
+    }
+
+    .OurProjects1 {
+        padding-left: 0px;
+        width: auto;
+    }
+
+    .Tools2 {
+        font-size: 28px;
+        padding-left: 21px;
+    }
+
+    .Toolspara {
+        font-size: 14px;
+        padding-left: 26px;
+        width: auto;
+    }
+
+    .Connectbox5 {
+        width: auto;
+    }
+
+    .linese89 {
+        width: auto;
+        padding-right: 2px;
+        padding-left: 1px;
+    }
+
+    .linese8 {
+        width: auto;
+        padding-right: 10px;
+    }
+
+    .lr {
+        display: block;
+        margin-left: 11px;
+        margin-top: 30px;
+        width: -webkit-fill-available;
+    }
+
+    .linese88 {
+        display: block;
+        padding-top: 22px;
+        width: auto;
+        padding-left: 1px;
+        position: absolute;
+        right: 24px;
+        left: 11px;
+        top: 30px;
+    }
+
+    .Technologieshole {
+
+        display: flex;
+        flex-direction: column;
+        gap: 22px;
+        padding-left: 11px;
+        padding-right: 21px;
+    }
+
+
+    .Technologiestext2 {
+        padding-left: 15px;
+    }
+
+
+    .Technologiestext3 {
+        padding-bottom: 38px;
+        padding-left: 13px;
+    }
+
+
+
+    .setonly {
+        display: flex;
+        justify-content: end;
+        position: absolute;
+        right: 26px;
+    }
+
+    .linese888 {
+        display: block;
+        padding-top: 22px;
+        width: auto;
+        padding-left: 1px;
+        position: absolute;
+        right: 24px;
+        left: 11px;
+        top: 93px;
+    }
+
+    .holsediv8se2 {
+        width: auto;
+    }
+
+    .linese88888 {
+        display: block;
+        padding-top: 22px;
+        width: auto;
+        padding-left: 1px;
+        position: absolute;
+        right: 24px;
+        left: 11px;
+        top: 147px;
+    }
+
+    .Connectbox3 {
+        width: auto;
+    }
+
+    .linese99 {
+        display: block;
+        padding-top: 22px;
+        width: auto;
+        padding-left: 1px;
+        position: absolute;
+        right: 24px;
+        left: 11px;
+        top: 212px;
+    }
+
+    .dropdown {
+        display: block;
+    }
+
+    .newinn {
+        display: none;
+    }
+
+    .newinn2 {
+        display: none;
+    }
+
+    .texthide {
+        width: max-content;
+    }
+
+    .section10 {
+        display: block;
+        background: linear-gradient(0.25turn, #3D3D3D, #000);
+    }
+
+    .tab input {
+        position: absolute;
+        opacity: 0;
+        z-index: -1;
+    }
+
+    .tab__content {
+        max-height: 0;
+        overflow: hidden;
+        transition: all 0.35s;
+    }
+
+    .tab input:checked~.tab__content {
+        max-height: 10rem;
+    }
+
+    .tab__label,
+    .tab__close {
+        display: flex;
+        color: white;
+        cursor: pointer;
+    }
+
+    .tab__label {
+        justify-content: space-between;
+        padding: 1rem;
+        font-size: 18px;
+        border-top: 1px solid rgb(128, 128, 128);
+    }
+
+    .tab__label::after {
+        content: "\276F";
+        width: 1em;
+        height: 1em;
+        text-align: center;
+        transform: rotate(90deg);
+
+    }
+
+    .tab__content p {
+        line-height: 29px;
+        padding-left: 15px;
+        font-size: 14px;
+        color: white;
+
+    }
+
+}
